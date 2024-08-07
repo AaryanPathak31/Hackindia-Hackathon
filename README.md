@@ -9,3 +9,8 @@ This project facilitates decentralized image upload and sharing on the blockchai
 - **React:** Front-end interface for uploading images and managing access.
 - **IPFS:** Decentralized storage protocol for hosting uploaded images.
 
+## HackIndia
+This Project is done under the hackathon organised by HackIndia.
+
+https://hackindia.xyz/
+
